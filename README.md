@@ -42,4 +42,7 @@ Bot: I'm a rule-based chatbot built with pure if-else logic...
 You: exit
 Bot: Exit command received. Terminating session...
 
+## 🚀 Live Demo
+[Try it here](https://egbunam05.github.io/rule-based-ai-chatbot/)
+
 Powered by DecodeLabs — Build the foundation. An LLM without rules is a hallucination engine.
